@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PracticaOperacionesBasicas</string>
+    <string name="smumero1">Ingresa número1</string>
+    <string name="smumero2">Ingresa número 2</string>
+    <string name="btnsuma">+</string>
+    <string name="btnresta">-</string>
+    <string name="btnmultiplica">x</string>
+    <string name="btndivide">/</string>
+    <string name="resultado">0.0</string>
+</resources>

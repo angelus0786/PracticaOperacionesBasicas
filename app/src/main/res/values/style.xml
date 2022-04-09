@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="etiqueta">
+        <!--item name="android:textSize">@dimen/etiquetaresultado</item-->
+        <item name="android:textColor">@color/rojo</item>
+
+    </style>
+
+</resources>
